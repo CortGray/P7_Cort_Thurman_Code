@@ -1,0 +1,22 @@
+{
+  "name": "p7_cort_thurman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "backend/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CortGray/P7_Cort_Thurman_Code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CortGray/P7_Cort_Thurman_Code/issues"
+  },
+  "homepage": "https://github.com/CortGray/P7_Cort_Thurman_Code#readme",
+  "dependencies": {
+    "vue": "^2.7.10"
+  }
+}
