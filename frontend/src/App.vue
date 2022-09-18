@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <nav>
-      <img alt="Groupomania logo" src="@/assets/icon-above-font.png">
+      <img alt="Groupomania logo" src="@/assets/icon-left-font.png">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
     </nav>
@@ -20,8 +20,6 @@
 
 nav {
   padding: 30px;
-
-  img {}
 
   a {
     font-weight: bold;
